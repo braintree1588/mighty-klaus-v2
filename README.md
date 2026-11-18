@@ -1,3 +1,7 @@
+# Painted adventure skin update
+
+Illustrated view is now the default, with original richly painted workshop/courtyard environments and five character portraits. The existing 3D mode remains available. All quest rules and functions are retained. See `docs/VISUAL-SKIN.md`.
+
 # Mighty Klaus V2 — explorable 3D Christmas demo
 
 Browser game with a true WebGL 3D counting house, hearth, toy workshop and snowy courtyard. Use the map, drag to orbit, zoom, tap props, or use the labelled journal list. Nujhat Hossain replaces Preety and is represented by a stylized procedural 3D character with breathing, blinking and small idle movements. This is a stylized 3D prototype, not photorealistic character capture.
