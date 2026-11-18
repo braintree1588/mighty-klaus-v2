@@ -1,3 +1,3 @@
-# Browser 3D adventure upgrade
+# Explorable 3D update
 
-An updated Christmas Past pitch demo is being implemented with an explorable real-time 3D environment, Nujhat Hossain, guided quests and rewind-driven world states. No install is required for players.
+True Three.js WebGL environment, four map destinations, Nujhat Hossain, idle breathing/blinking, reversible environmental lighting and props, completion-driven scenery, and guided easy interactions. One playable Christmas Past chapter. No player install required.
